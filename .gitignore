@@ -1,0 +1,7 @@
+# Archivos que NO deben subirse a GitHub
+venv/
+__pycache__/
+*.pyc
+webcantabra.db
+secret.key
+seguridad.log
